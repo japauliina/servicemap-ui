@@ -69,6 +69,27 @@ export default {
   // Embed
   'embed.click_prompt_move': 'Klikkaa siirtyäksesi Palvelukartalle',
 
+  //Embedder
+  'embedder.title': 'Palvelukartta-upotuksen esikatselu',
+  'embedder.url.title': 'Osoite',
+  'embedder.city.title': 'Kaupunki',
+  'embedder.language.title': 'Upotuksen kieli',
+  'embedder.language.description.fi': 'Toimipisteiden tiedot näytetään suomen kielellä. Taustakartta on suomenkielinen.',
+  'embedder.language.description.sv': 'Toimipisteiden tiedot näytetään ruotsin kielellä. Taustakartta on ruotsinkielinen.',
+  'embedder.language.description.en': 'Toimipisteiden tiedot näytetään englannin kielellä. Taustakartta on suomenkielinen.',
+  'embedder.map.title': 'Taustakartta',
+  'embedder.height.title': 'Upotuksen korkeus',
+  'embedder.height.relative.description': 'Upotuksen korkeuden suhde leveyteen on määritelty',
+  'embedder.height.relative.label': 'Suhteellinen korkeus',
+  'embedder.height.absolute.description': 'Upotuksen korkeus on määritelty pikseleissä',
+  'embedder.height.absolute.label': 'Absoluuttinen korkeus',
+  'embedder.width.title': 'Upotuksen leveys',
+  'embedder.width.auto.description': 'Upotus täyttää leveyssuunnassa elementin, johon se on sijoitettu. Tässä esikatselussa upotus on sijoitettu katkoviivalla merkittyyn vakiolevyiseen elementtiin.',
+  'embedder.width.auto.label': 'Automaattinen leveys',
+  'embedder.width.custom.description': 'Upotuksen leveys on määritelty pikseleissä.',
+  'embedder.width.custom.label': 'Valittu leveys',
+  
+
   // Feedback
   'feedback.back': 'Palaa takaisin',
   'feedback.title': 'Anna palautetta tästä verkkopalvelusta',
